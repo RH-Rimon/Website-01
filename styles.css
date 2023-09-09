@@ -108,21 +108,19 @@ body {
 
     margin-top: 100px;
     background: #FFF;
-    width: 1600px;
-    height: 3229px;
+
 
 
 }
 
 .header-title-03 {
 
-    margin-top: 136px;
     color: Dark 01;
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
     text-align: center;
-    margin-left: 200px;
+
 
 
 }
@@ -134,7 +132,7 @@ body {
     text-align: center;
     font-size: 30px;
     font-weight: 700;
-    margin: 50px 150px;
+    margin: 50px 90px;
 }
 
 .img-02 {
@@ -144,6 +142,12 @@ body {
     flex-shrink: 0;
 }
 
+/* .div-function-02 {
+
+    gap: 50px;
+    padding: 0px;
+} */
+
 .description-03 {
 
     color: Dark 03;
@@ -152,4 +156,130 @@ body {
     font-size: 25px;
     font-style: normal;
     font-weight: 500;
+}
+
+.section-03 {
+
+    background-image: url("images/watch.png");
+    background-repeat: no-repeat;
+    backdrop-filter: #F15B22;
+    width: 1140px;
+    height: 300px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background-color: #F15B22;
+    margin: 130px 235px;
+    border: 0px;
+
+}
+
+.div-function-03 {
+
+    padding: 40px 617px 100px 64px;
+}
+
+.header-title-05 {
+
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.btn-02 {
+    width: 140px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0px;
+    color: #F15B22;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px;
+
+}
+
+/* Footer Part  */
+
+.section-04 {
+
+    display: flex;
+    background-color: #151414;
+    width: 1600px;
+    height: 577px;
+    flex-shrink: 0;
+}
+
+.div-function-04 {
+
+    padding-top: 130px;
+    padding-left: 200px;
+}
+
+.section-04>div {
+    gap: 35px;
+}
+
+.section-04 img {
+
+    margin: 5px;
+}
+
+.header-title-06 {
+
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+.description-04 {
+
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+
+}
+
+.subscribe {
+    padding-top: 130px;
+    padding-left: 200px;
+    padding-top: 130px;
+    margin-right: 100px;
+}
+
+.description-05 {
+
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+
+#email {
+
+    width: 325px;
+    height: 64px;
+    flex-shrink: 0;
+    padding: 20px 100px 20px 20px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    border-radius: 5px;
+
+}
+
+.btn-03 {
+
+    width: 170.106px;
+    height: 64px;
+    flex-shrink: 0;
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px;
+    border-radius: 5px;
 }
