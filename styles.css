@@ -1,0 +1,155 @@
+/* Body Font */
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Header Styles */
+
+.header {
+    background-image: url("/images/banner/banner1.png");
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 808px;
+    flex-shrink: 0;
+
+
+}
+
+.first-div {
+
+    display: block;
+    padding: 216px 230px 364px 845px;
+
+}
+
+.header-title {
+
+    width: 525px;
+    color: #151414;
+    text-align: right;
+    font-size: 65px;
+    font-weight: 700;
+
+}
+
+.description-1 {
+
+    color: #444343;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 20px;
+
+}
+
+.btn {
+
+    color: #FFF;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 350px;
+    border-radius: 5px;
+    background: #F15B22;
+    padding: 25px;
+    border: 0px;
+    margin-top: 30px;
+
+}
+
+/* Styles Part */
+
+.section-01 {
+
+    display: flex;
+    margin-left: 277px;
+    margin-bottom: 134px;
+}
+
+.image-01 {
+
+    width: 451px;
+    height: 898px;
+    flex-shrink: 0;
+    margin-top: 140px;
+    background-color: #F15B2233;
+    border-radius: 527.929px;
+    background-position: bottom;
+    width: 527.929px;
+    height: 527.929px;
+
+}
+
+.div-function-01 {
+    margin-top: 370px;
+    margin-right: 322px;
+    margin-left: 200px;
+}
+
+.header-title-02 {
+
+    color: Dark 01;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+
+}
+
+.description-03 {
+
+    width: 416px;
+    color: Dark 02;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.section-02 {
+
+    margin-top: 100px;
+    background: #FFF;
+    width: 1600px;
+    height: 3229px;
+
+
+}
+
+.header-title-03 {
+
+    margin-top: 136px;
+    color: Dark 01;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    margin-left: 200px;
+
+
+}
+
+.my-plans-div {
+
+    display: flex;
+
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 50px 150px;
+}
+
+.img-02 {
+
+    width: 92.958px;
+    height: 92.958px;
+    flex-shrink: 0;
+}
+
+.description-03 {
+
+    color: Dark 03;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+}
